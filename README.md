@@ -1,51 +1,93 @@
-# Hi 👋, I'm Mohamed Wael
+# Hi 👋, I'm Mohamed Wael  
 
-Backend Software Engineer specializing in Node.js (NestJS) and scalable backend systems 🚀
+Backend Software Engineer specializing in **Node.js (NestJS)** and scalable backend systems 🚀  
+
+---
 
 ## 👨‍💻 About Me
-- 💼 Backend Engineer with 2+ years of experience
-- ⚙️ Specialized in NestJS, Microservices & System Design
-- 🧠 Strong focus on scalable architecture and clean code
-- 📍 Based in Cairo, Egypt
+- 💼 Backend Engineer with 2+ years of experience  
+- ⚙️ Specialized in **NestJS, Microservices & System Design**  
+- 🧠 Strong focus on **scalable architecture, clean code, and performance**  
+- 📦 Experience building **production-grade systems**  
+- 📍 Based in Cairo, Egypt  
+
+---
 
 ## 🚀 Tech Stack
-- Backend: Node.js, NestJS, Laravel
-- Databases: PostgreSQL, MongoDB, MySQL
-- Architecture: Microservices, Nx Monorepo
-- Tools: Docker, Kafka, Keycloak
-- Auth: JWT, OAuth2
 
-## 🔥 Featured Projects
+**Backend:**  
+Node.js, NestJS, Laravel  
 
-### 🟢 NoDust Platform
-Subscription & Contract Management System  
-🔗 https://www.nodust-eg.com/
+**Databases:**  
+PostgreSQL, MongoDB, MySQL  
 
-- Built scalable microservices architecture using NestJS
-- Designed Nx monorepo system
-- Implemented billing & delivery workflows
+**Architecture & Systems:**  
+Microservices, Nx Monorepo, Event-Driven Architecture  
 
----
+**Tools & DevOps:**  
+Docker, Kafka, Keycloak, Git, GitHub  
 
-### 🟡 Parking System (Parq)
-Parking & Reservation System  
-🔗 https://tryparq.co/
-
-- REST APIs with NestJS
-- Stripe payment integration
-- Optimized PostgreSQL schema
+**Authentication & Security:**  
+JWT, OAuth2, RBAC  
 
 ---
 
-### 🔵 LMS System
-Learning Management System
+## 🔥 Real-World Projects (Production Experience)
 
-- Microservices with Nx
-- Keycloak authentication
-- Kafka event-driven communication
+### 🟢 NoDust Platform  
+🔗 https://www.nodust-eg.com/  
+
+Subscription & Contract Management System used in production in Egypt  
+
+- Designed scalable **microservices architecture** using NestJS  
+- Built modular system using **Nx Monorepo**  
+- Implemented **billing & invoicing workflows**  
+- Used **Kafka for event-driven communication**  
+- Integrated **Keycloak for authentication & RBAC**  
+- Optimized PostgreSQL queries and database structure  
+
+> ⚠️ Source code is private (company property)
+
+---
+
+### 🟡 Parking Management System (Parq)  
+🔗 https://tryparq.co/  
+
+Parking, reservation, and payment system  
+
+- Developed scalable REST APIs using NestJS  
+- Integrated **Stripe payments**  
+- Designed optimized database schemas using PostgreSQL  
+- Containerized system using Docker  
+
+> ⚠️ Source code is private (company property)
+
+---
+
+### 🔵 Learning Management System (LMS)
+
+- Built microservices using **Nx Monorepo**  
+- Implemented **authentication with Keycloak**  
+- Used **Kafka for service communication**  
+- Designed scalable database models using Prisma  
+
+> ⚠️ Source code is private (company property)
+
+---
+
+## 💡 What I Focus On
+- Writing clean, maintainable, and scalable code  
+- Designing robust backend architectures  
+- Building real-world production systems  
+- Continuous learning and improving system design skills  
 
 ---
 
 ## 📫 Contact Me
-- Email: mohamedwael1078@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mohamedWael162000/
+- 📧 Email: mohamedwael1078@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamedWael162000/  
+- 📱 Phone: +20 1080252697  
+
+---
+
+⭐ *Always open to backend engineering opportunities and challenging projects*
