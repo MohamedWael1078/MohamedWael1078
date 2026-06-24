@@ -66,27 +66,27 @@ Parking, reservation, and payment system
 
 ### 🔵 Learning Management System (LMS)
 
-- Built microservices using **Nx Monorepo**  
-- Implemented **authentication with Keycloak**  
-- Used **Kafka for service communication**  
-- Designed scalable database models using Prisma  
+- Built microservices using **Nx Monorepo**
+- Implemented **authentication with Keycloak**
+- Used **Kafka for service communication**
+- Designed scalable database models using Prisma
 
 > ⚠️ Source code is private (company property)
 
 ---
 
 ## 💡 What I Focus On
-- Writing clean, maintainable, and scalable code  
-- Designing robust backend architectures  
-- Building real-world production systems  
-- Continuous learning and improving system design skills  
+- Writing clean, maintainable, and scalable code
+- Designing robust backend architectures
+- Building real-world production systems
+- Continuous learning and improving system design skills
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: mohamedwael1078@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/mohamedWael162000/  
-- 📱 Phone: +20 1080252697  
+- 📧 Email: mohamedwael1078@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamedwael1078/
+- 📱 Phone: +20 1080252697
 
 ---
 
